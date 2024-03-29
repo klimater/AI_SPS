@@ -1,0 +1,11 @@
+Типовой процесс разработки решений на базе ИИ и типовые ошибки при их внедрении
+URL: https://habr.com/ru/companies/icl_group/articles/798373/
+
+Руководство для начинающих по программированию инструментов искусственного интеллекта
+URL: https://appmaster.io/ru/blog/rukovodstvo-dlia-nachinaiushchikh-po-programmirovaniiu-instrumentov-iskusstvennogo-intellekta
+
+Claude 3: как пользоваться самой интеллектуальной нейросетью
+URL: https://trends.rbc.ru/trends/industry/6606a82d9a7947f49c15332d
+
+
+
